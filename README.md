@@ -29,7 +29,7 @@ The API exposes the following endpoints via the `PurchaseOrderController`:
 
 You are expected to perform the following tasks to improve the project:
 
-1. **Pull the project from GitHub**
+1. **Pull the project from GitHub https://github.com/G3G-Africa/PurchaseOrder.Api.git**
 2. **Secure the API** using industry standards (e.g., API key, OAuth, JWT)
 3. **Apply SOLID principles**  
    - Single Responsibility  
