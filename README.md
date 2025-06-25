@@ -75,7 +75,7 @@ You will be evaluated based on:
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/your-org/purchase-order-api.git
+git clone https://github.com/G3G-Africa/PurchaseOrder.Api.git
 cd purchase-order-api
 dotnet build
 dotnet run
