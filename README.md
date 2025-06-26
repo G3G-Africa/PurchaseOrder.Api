@@ -40,7 +40,7 @@ You are expected to perform the following tasks to improve the project:
 4. **Write Unit and Functional Tests**
    - Use mocking libraries for dependencies
    - Cover all core functionalities
-5. **Implement read database pattern**
+5. **Replace the inmemory database with real database implementation. Ref: Technologies section**
    - Use CQRS or a similar approach to separate read/write logic
 6. **Formalize the sending of data to the ServiceLayer (mocked)**
 7. **Create a Pull Request** with your changes
